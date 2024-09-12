@@ -7,12 +7,6 @@
   풀스택 개발자 수현입니다.<br><br>
   
   <br><br>
-
-  <h3>My Project</h3>
-  <a href="https://github.com/4-TravelMaker/TravelMaker">✈️Semi Project - Travel Maker✈️</a><br>
-  <a href="https://github.com/DeuggeunJeonsu/DeuggeunJeonsu.git">🏃‍♂️Final Project - 득근전수🏃‍♀️</a>
-  
-  <br><br>
   
   <h3>Stacks</h3>
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=white"/>
@@ -34,12 +28,6 @@
   <img src="https://img.shields.io/badge/apachetomcat-F8DC75?style=flat&logo=apachetomcat&logoColor=white"/>
   <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/sourcetree-0052CC?style=flat&logo=sourcetree&logoColor=white"/>
-
-  <br><br>
-
-  <h3>Most Used Languages</h3>
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ansoohyeon&layout=compact)](https://github.com/ansoohyeon/github-readme-stats)
 
   <br><br>
 
