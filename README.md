@@ -2,21 +2,19 @@
 
 <div align=center>
 
-  <h3>🤍 Introduction</h3>
+  <h3>About Me</h3>
   안녕하세요!<br>
-  성장 중인 개발자 수현입니다.<br><br>
-  프론트와 백엔드 모두에 관심이 있습니다.<br>
-  지식을 기록합니다. ✏️
+  풀스택 개발자 수현입니다.<br><br>
   
   <br><br>
 
-  <h3>🙌 My Project</h3>
+  <h3>My Project</h3>
   <a href="https://github.com/4-TravelMaker/TravelMaker">✈️Semi Project - Travel Maker✈️</a><br>
   <a href="https://github.com/DeuggeunJeonsu/DeuggeunJeonsu.git">🏃‍♂️Final Project - 득근전수🏃‍♀️</a>
   
   <br><br>
   
-  <h3>📚 Stacks</h3>
+  <h3>Stacks</h3>
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=white"/>
   <img src="https://img.shields.io/badge/jquery-0769AD?style=flat&logo=jquery&logoColor=white"/>
   <img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white"/>
@@ -39,18 +37,16 @@
 
   <br><br>
 
-  <h3>💡 Most Used Languages</h3>
+  <h3>Most Used Languages</h3>
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ansoohyeon&layout=compact)](https://github.com/ansoohyeon/github-readme-stats)
 
   <br><br>
 
-  <h3>👾 Contact Me</h3>
+  <h3>Contact Me</h3>
 
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fansoohyeon%2Fhit-counter&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=Github&edge_flat=false)](https://github.com/ansoohyeon)</a>
   <a href="https://velog.io/@suhyun_zip"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat&logo=Velog&logoColor=white&link=https://velog.io/@suhyun_zip"/></a>
   <a href="mailto:ansoohy3on@gmail.com"><img src="https://img.shields.io/badge/ansoohy3on@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white&link=mailto:ansoohy3on@gmail.com"/>
 
 </div>
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=footer)
