@@ -8,7 +8,7 @@
   
   <br><br>
   
-  <h3>Stacks</h3>
+  <h3>Skills</h3>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
@@ -41,7 +41,7 @@
 
   <br><br>
 
-  <h3>Contact Me</h3>
+  <h3>Contact</h3>
 
    <a href="https://github.com/ansoohyeon"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/ansoohyeon"/></a>
   <a href="https://velog.io/@suhyun_zip"><img src="https://img.shields.io/badge/Velog-3DDC84?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@suhyun_zip"/></a>
