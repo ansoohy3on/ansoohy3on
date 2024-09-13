@@ -40,8 +40,8 @@
   <a href="https://velog.io/@suhyun_zip"><img src="https://img.shields.io/badge/Velog-3DDC84?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@suhyun_zip"/></a>
   <a href="mailto:ansoohy3on@gmail.com"><img src="https://img.shields.io/badge/ansoohy3on@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:ansoohy3on@gmail.com"/>
 
-  <br><br>
+  <br>
 
 </div>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=130&section=footer)
