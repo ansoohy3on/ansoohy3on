@@ -2,14 +2,14 @@
 
 <div align=center>
 
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=17&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=About+Me%F0%9F%8D%80" alt="Typing SVG" /></a><br>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=17&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=About+me+%F0%9F%8D%80" alt="Typing SVG" /></a><br>
   
   안녕하세요!<br>
   풀스택 개발자 수현입니다.<br><br>
   
   <br><br>
   
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=17&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=Skills%E2%9C%8F%EF%B8%8F" alt="Typing SVG" /></a><br>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=17&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=Things+I+code+with+%F0%9F%92%A1" alt="Typing SVG" /></a><br>
   
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>
@@ -34,7 +34,7 @@
 
   <br><br>
 
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=17&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=Contact%F0%9F%91%80" alt="Typing SVG" /></a><br>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=17&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=Contact+me+%F0%9F%91%80" alt="Typing SVG" /></a><br>
 
   <a href="https://github.com/ansoohyeon"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/ansoohyeon"/></a>
   <a href="https://velog.io/@suhyun_zip"><img src="https://img.shields.io/badge/Velog-3DDC84?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@suhyun_zip"/></a>
