@@ -5,7 +5,8 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=17&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=About+me+%F0%9F%8D%80" alt="Typing SVG" /></a><br>
   
   안녕하세요!<br>
-  풀스택 개발자 수현입니다.<br><br>
+  풀스택 개발자 수현입니다.<br>
+  새로움을 즐기고 탐구합니다.<br><br>
   
   <br><br>
   
