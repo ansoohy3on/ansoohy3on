@@ -37,7 +37,7 @@
 
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=17&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=Contact+me+%F0%9F%91%80" alt="Typing SVG" /></a><br>
 
-  <a href="https://github.com/ansoohyeon"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/ansoohyeon"/></a>
+  <a href="https://github.com/ansoohy3on"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/ansoohy3on"/></a>
   <a href="https://velog.io/@suhyun_zip"><img src="https://img.shields.io/badge/Velog-3DDC84?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@suhyun_zip"/></a>
   <a href="mailto:ansoohy3on@gmail.com"><img src="https://img.shields.io/badge/ansoohy3on@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:ansoohy3on@gmail.com"/>
 
